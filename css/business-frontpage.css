@@ -1,0 +1,40 @@
+/*!
+ * Start Bootstrap - Business Frontpage (https://startbootstrap.com/template/business-frontpage)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-business-frontpage/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+img {width: 270px; height: 390px; padding:0.5em; margin:auto;}
+
+
+i {margin:0.1em; font-size: 50px; padding-bottom: 0.5em;}
+
+body {text-align:center;}
+.mensaje {border:3px double; background-color:rgb(134, 196, 236); color:black;font-weight: 400}
+.imagenportada {width: 700px; height: 350px; }
+iframe {margin-top: 2em;}
+.titulo {margin-top: 1em;}
+table {
+  width:100%;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+#t01 tr:nth-child(even) {
+  background-color: #eee;
+}
+#t01 tr:nth-child(odd) {
+ background-color: #fff;
+}
+#t01 th {
+  background-color: black;
+  color: white;
+}
+
